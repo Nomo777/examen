@@ -1,0 +1,43 @@
+/*
+Autor: keyla reynoza
+*/
+
+.i1 {
+
+    background-color: rgb(221, 140, 140);
+}
+
+.i2 {
+
+    background-color:rgb(255, 206, 159)
+}
+
+.i3 {
+
+    background-color: rgb(255, 248, 184);
+}
+
+.i4 {
+
+    background-color: rgb(198, 255, 184);
+}
+
+.i5 {
+
+    background-color: rgb(184, 253, 255);
+}
+
+
+
+body {margin: 0% 0% 0% 0% ;
+
+}
+
+#i2 {
+
+    padding: 0px;
+    width: 100%;
+    height: 100%;
+background-color: brown;
+
+}
